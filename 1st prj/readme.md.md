@@ -44,9 +44,8 @@ To run this project, you need to have Excel installed on your computer. Addition
 1. ![](./graphs/Aspose.Words.65f59999-ca39-4dc6-affe-bdde491bbf98.006.png)Genre by average profit.
 
 
-![A screenshot of a computer
+![](./graphs/Aspose.Words.65f59999-ca39-4dc6-affe-bdde491bbf98.007.png) Visualization Dashboard.
 
-Description automatically generated](./graphs/Aspose.Words.65f59999-ca39-4dc6-affe-bdde491bbf98.007.png)
 
 **Contributing**
 
