@@ -1,5 +1,5 @@
 
-# ![Supermarket Icon](/CityMart%20logo.png) Supermarket Sales Data Wrangling
+# ![Supermarket Icon](CityMart%20logo.png) Supermarket Sales Data Wrangling
 
 
 ## Project Overview
