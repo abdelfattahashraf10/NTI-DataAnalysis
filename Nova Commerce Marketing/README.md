@@ -77,5 +77,6 @@ The **Power BI Dashboard** developed for this project includes:
 
 ## 🌟 **Acknowledgments**
 - **Freelance Yard:**:For providing me with this valuable opportunity   to take on my first freelance project.
-- **NTI:**: For supporting and empowering me throughout this journey. All the mentors and peers who guided me during this project and helped refine my skills.
+- **NTI:**: For supporting and empowering me throughout this journey.
+- All the mentors and peers who guided me during this project and helped refine my skills.
 
